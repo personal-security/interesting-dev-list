@@ -10,6 +10,11 @@
 
 * https://www.ipify.org/ - сервис определения api
 
+### Администрирование (Admin)
+
+* https://crontab.guru/ - сервис генерации crontab записей
+* https://chmodcommand.com/ - сервис генерации команд chmod
+
 ### Тестирование веб запросов. (Testing your web requests)
 
 https://httpbin.org/
